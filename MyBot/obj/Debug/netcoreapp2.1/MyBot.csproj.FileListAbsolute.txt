@@ -1,0 +1,15 @@
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.AssemblyInfoInputs.cache
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.AssemblyInfo.cs
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.csproj.CoreCompileInputs.cache
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.RazorAssemblyInfo.cache
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.RazorAssemblyInfo.cs
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.deps.json
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.runtimeconfig.json
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.runtimeconfig.dev.json
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.dll
+C:\Users\Criswxart\Documents\MyBot\MyBot\bin\Debug\netcoreapp2.1\MyBot.pdb
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.RazorTargetAssemblyInfo.cache
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.dll
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.pdb
+C:\Users\Criswxart\Documents\MyBot\MyBot\obj\Debug\netcoreapp2.1\MyBot.genruntimeconfig.cache
